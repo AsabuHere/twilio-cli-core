@@ -16,4 +16,3 @@ clean:
 generate-fork-pipeline-changes:
 	git co main
 	node .github/scripts/create-fork-pipeline-changes.js $(PWD) $(owner)
-  
