@@ -1,3 +1,10 @@
+### [1.0.2](https://github.com/AsabuHere/twilio-cli-core/compare/1.0.1...1.0.2) (2022-11-22)
+
+
+### Library - Chores
+
+* package.json update ([0847796](https://github.com/AsabuHere/twilio-cli-core/commit/08477963ba63d8f9391e35648847737c10c366d9))
+
 ### [1.0.1](https://github.com/AsabuHere/twilio-cli-core/compare/1.0.0...1.0.1) (2022-11-15)
 
 
